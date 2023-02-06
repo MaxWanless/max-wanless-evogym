@@ -6,15 +6,15 @@ Single Page react application that uses Tailwind, Typescript and framer motion.
 
 - [Live Demo](#-live-demo)
 - [Tech Stack](#-tech-stack)
-- [Features](#-features)
 - [Screenshots](#-screenshots)
 - [Setup Instructions](#EF%B8%8F-setup-instructions)
 - [Next Steps](#-next-steps)
 - [Contact Me](#-contact)
+<!-- - [Features](#-features) -->
 
 ## 📲 Live Demo
 
-Just working on hosting, Stay tuned for a live [Demo](https://max-wanless-kanban.netlify.app).
+Just working on hosting, Stay tuned for a live [Demo](https://max-wanless-evogym.netlify.app).
 
 ## 💻 Tech Stack
 
@@ -33,10 +33,11 @@ Just working on hosting, Stay tuned for a live [Demo](https://max-wanless-kanban
 ## 📸 Screenshots
 
 Destop View
-![Desktop View](https://github.com/MaxWanless/max-wanless-kanban-app/blob/main/screenshots/Login_Page.png?raw=true)
+![Desktop View](https://github.com/MaxWanless/max-wanless-evogym/blob/main/screenshots/EVOGYM_Desktop.png?raw=true)
 
 Mobile View
-![Mobile View](https://github.com/MaxWanless/max-wanless-kanban-app/blob/main/screenshots/Login_Page.png?raw=true)
+
+<img src="https://github.com/MaxWanless/max-wanless-evogym/blob/main/screenshots/EVOGYM_Mobile.png?raw=true" width="320" alt="Mobile View">
 
 <br />
 
