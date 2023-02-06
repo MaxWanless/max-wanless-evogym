@@ -51,6 +51,7 @@ Mobile View
 ## 👟 Next Steps
 
 - Integrate third party CMS for content management (eg. Sanity).
+- Add contact form functionality. 
 
 ## 📬 Contact
 
